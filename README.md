@@ -8,7 +8,7 @@ This project contains a machine learning workflow for predicting employee attrit
 - `Test_Dataset.csv`: Test dataset used for generating final predictions.
 - `employee_attr.ipynb`: Main notebook for data preprocessing, model training, evaluation, and inference.
 - `Sample_Submission_(2)_(1)_(1)_(1).csv`: Reference submission format.
-- `submission_3.csv`, `submission_4.csv`: Generated prediction files.
+- `submission_3.csv`: Generated prediction file.
 
 ## Workflow
 
